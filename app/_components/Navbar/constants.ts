@@ -3,5 +3,5 @@ export const LINKS = [
   { href: "/nosotros", label: "NOSOTROS" },
   { href: "/#galerias", label: "GALERIAS" },
   { href: "/presupuesto", label: "PRESUPUESTO" },
-  { href: "/#contacto", label: "CONTACTO" },
+  { href: "#contact", label: "CONTACTO" },
 ];
